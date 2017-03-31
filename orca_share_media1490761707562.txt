@@ -1,0 +1,18 @@
+﻿Dear All,
+
+Please explore the following five ideas for your MpMc and DSD projects. You can also use these ideas in FTS and ML projects, or in your thesis.
+			
+1. SparseMat, Towards Devising A Low-Cost Directional System for Pedestrian Counting (https://goo.gl/Ft3BBY): We have developed a small sparse mat that can detect movement direction using one footstep of a single person. This paper has awarded as the best paper in the 3rd NSysS conference. Now, your task is to develop a large sparse sensor mat that can detect direction using multiple footsteps of multiple persons. One group of us may use this idea in our ML project. Therefore, you can collaborate with them.
+
+2. RemoteDisplay, Towards Devising a Cloud Based Green Digital Signage Display (https://goo.gl/IOydyZ): Digital display is one of the most power hungry components in any electronic device. We have greened a 2x4 dot matrix display. However, we could not publish it, since, we had no user evaluation. In MpMc project, your job is to green a digital clock, which is available in your class room. You can add networking module in your DSD project. Cloud based digital clock can be applied in our mosques to set up prayer times.
+
+4. SmartHome: Here, you have to develop an IOT based home. Door, light, fan, etc. will be controlled through you smartphone. Besides, 		light/fan will also be adjusted automatically according to environmental condition.
+
+5. KenKen Puzzle (http://www.kenkenpuzzle.com/): It is an interesting puzzle. This project will make the concept of dot matrix display crispy clear. If you want to develop games in hardware, you can choose it. One group of us has implemented it partially. Your job is to complete it and implement all the functions. 
+
+You should choose such a project for your labs that you can submit it in the next NSysS or other conferences. If you have any query, suggestion or comment, please feel free to let us know.
+
+Thank you.
+
+Tarik Reza Toha (1205082.trt@ugrad.cse.buet.ac.bd)
+Ref.: Dr. A. B. M. Alim Al Islam (alim_razi@cse.buet.ac.bd)
